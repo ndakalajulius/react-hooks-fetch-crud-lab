@@ -25,7 +25,8 @@ For this lab, we'll be using `json-server` to create a RESTful API with our quiz
 data. You can run `json-server` by running `npm run server` (the command for
 this is in the `package.json` file). Once your server is running, go to
 `http://localhost:4000/questions` in your browser and have a look at the
-question data.
+question data.nom run server
+
 
 Then, in a new terminal tab, run `npm start` to run the React application.
 
